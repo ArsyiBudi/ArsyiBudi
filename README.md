@@ -3,13 +3,14 @@
 Here are some ideas to get you started:
 
 🔭 I’m currently working on Neuronworks
-🌱 I’m currently learning kotlin, flutter, and golang
 
-I am a high school vocation student who is passionate about building applications that connect people. I have experience in various fields, including database administrator, frontend web developer, mobile developer, and backend developer
+🌱 I’m currently learning backend kotlin, javascript and golang
+
+I am a high school vocation student who is passionate about building applications that connect people. I have experience in various fields, including database administrator, mobile developer, and backend developer
 
 ## TechStack
 
-* Programming languages: go, javascript, kotlin, dart, sql, mongodb, postgresql, php
+* Programming languages: go, javascript, kotlin, sql, mongodb, postgresql, php
 * Frameworks: react, flutter, nodejs, springboot, laravel, cypress, 
 * Tools: vscode, android studio, pgadmin, phpmyadmin, vite, 
 
