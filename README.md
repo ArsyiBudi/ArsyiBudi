@@ -16,7 +16,7 @@ I am a high school vocation student who is passionate about building application
 
 ## Social media
 
-* Instagram - https://www.instagram.com/arsyibudi
+* Instagram - https://www.instagram.com/Arsyi.Budi
 * linkedln - [Social media app for sharing news and information](https://www.linkedin.com/in/muhammad-arsyi-budi-298869259/)
 
 ## Contact me
